@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alimhanna1991
 - 👀 I’m interested in Web development , Mobile Apps Development , AI , Data science
-- 🌱 I’m currently learning Laravel , NodeJs
 
 - 📫 Contact : ali.m.mhanna@gmail.com
 
